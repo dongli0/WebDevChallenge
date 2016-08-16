@@ -71,7 +71,7 @@
 - [ ] Vertically center a div.
 - [ ] Create a responsive three column equal height layout divided by 1px borders/dividers.
 - [ ] Create a sticky header.
-- [ ] Create a sticky footer.
+- [*] Create a sticky footer.
 - [ ] Collapse a navigation bar to a hamburger menu when you're using any mobile device ~ [Responsive Dropdown Navigation Bar](http://www.taniarascia.com/responsive-dropdown-navigation-bar/)
 - [ ] Create a responsive website by using CSS media queries.
 - [ ] Collapse a navigation bar to a hamburger menu when you're using any mobile device ~ [Tutorial](http://www.taniarascia.com/responsive-dropdown-navigation-bar/)
